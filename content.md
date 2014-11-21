@@ -3,6 +3,10 @@ project-porfolio
 
 content so far
 
+ABOUT ME
+
+My name is Sean Donovan and I am a Senior Communications major and Saint Joseph’s University. In my free time, I like watching movies and playing retro video games. I moved from New Orleans, Louisiana after Hurricane Katrina to Fairhope, Alabama for 3 years and now I reside with my father in Scranton, Pennsylvania. I’m not sure exactly in what direction my life is headed but I would like to move back to the south (preferably back to New Orleans) after graduation. I decided to start a weskit that reviews many different products because I’m always online checking up on customer reviews of products before I buy them as I think it is the best way to get proper feedback on a item I’m questionable on buying. Anything as little as choosing a brand of bread or sauce when I’m shopping I try to look up online. The same thing applies for wine, beer, movies, etc. and I’ve found while there are certain reviewers/critics who I rely on for opinions, they usually only stick to one category of reviews. I set up this website for other people to be able to see reviews for any and all different variety of products and not have to keep constantly looking through other websites unsure if they can find what they want. Additionally, if there are any products you’re specifically looking for me to try feel free to email me at thedoors810@yahoo.com and I’ll be sure to try and find them and review it for you! Feel free to leave any comments with your own critiques as well.
+
 Reviews:
 
 1) MOVIE: Interstellar: 8/10
