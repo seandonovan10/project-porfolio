@@ -3,8 +3,6 @@ project-porfolio
 
 content so far
 
-Personal Narrative:
-
 <html>
   <head>
     <meta charset="utf-14">
